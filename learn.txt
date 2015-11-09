@@ -1,4 +1,0 @@
-git is a version control system.
-I am leraning using git
-git is a free software.
-git has a stage,master and head.
