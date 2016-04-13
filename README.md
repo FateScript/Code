@@ -3,8 +3,8 @@
 这个库含有我在学习Linux时所写的源代码，共含有三个文件夹  
 分别为:  
 **Client & Server**  
-**Copy**
-**FIFO & pipe**
+**Copy**  
+**FIFO & pipe**  
 
 ###Client & Server
 用户与服务器的通信程序，模拟QQ的群聊功能，使用时请**先启动Server，再启动Client**
